@@ -1,28 +1,29 @@
-
-<html>
-
-  <body>
-    <nav>
-      <li><a href="index.html">HOME</a></li>
-      <li><a href="apps.html">APPS</a></li>
-      <li><a  href="https://www.powayusd.com/en-US/Schools/HS/WVHS/HOME">WESTVIEW</a></li>
-    </nav>
-  <center>
-    <h1> 
-      <br>
-      <br>
-      Sydney's First CSP Website </h1>   
- <center>
-   <br>
-   
-  <h2> <img src= "https://w0.peakpx.com/wallpaper/65/306/HD-wallpaper-cute-frog-cartoon-heart-love.jpg">
-  
-   <br>
-   <br>
-
-<iframe width="400" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/faVKZAGx10baSI5n-lHZuleHIvWqCMMDXuNWYHKUFhH/embed?nosource"></iframe>
-       
-
-       
-  </body>
-</html>
+body{
+ background-color: #CCE8CC
+}
+nav{
+  list-style-type:none;
+  background-color: #82ABA1;
+  width: 100%;
+  length: 50%;
+  position: fixed;
+  top: 0;
+  left:0;
+  }
+li{
+  display: inline;
+  padding: 13px;
+  float: right;
+}
+li:hover{
+  background-color: gold;
+}
+a{
+  text-decoration:none;
+  color: white;
+  letter-spacing: 3px;
+}
+h1 {color: white}
+img: { width:250px;
+border: solid black 2px;
+}
